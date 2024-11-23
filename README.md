@@ -1,5 +1,14 @@
-# FinalProjectDigitalElectronic
+# Package monitoring car
+
+## Components:
+
+- L298N
+- MPU6050
+- 4 motors, 4 wheels
+- Jumpers
+- Servo motor
+![car](/documentation_imgs/CAR.jpeg)
 
 
-## 3D models
-From Thingiverse: https://www.thingiverse.com/thing:5021639. This thing was created by Thingiverse user 3dfuns, and is licensed under Creative Commons - Attribution - Non-Commercial.
+# Monitoring dashboard Arduino cloud
+![car](/documentation_imgs/dashboard.jpeg)
