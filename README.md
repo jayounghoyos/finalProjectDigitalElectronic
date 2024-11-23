@@ -7,6 +7,8 @@
 - 4 motors, 4 wheels
 - Jumpers
 - Servo motor
+- TIP 122
+
 ![car](/documentation_imgs/CAR.jpeg)
 
 
